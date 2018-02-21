@@ -14,3 +14,4 @@ $ yarn install
 ```
 $ node app.js
 ```
+The service should start at port 3000
