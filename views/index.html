@@ -1,0 +1,9 @@
+<% include partials/header.html %>
+<h2>Options:</h2>
+  <ul class="list-group list-group-flush">
+  <% endpoints.forEach(function(endpoint) { %>
+    <li class="list-group-item"> <code> <%= endpoint.name %> </code> - <a href="<%= endpoint.name %>"> <%= endpoint.purpose %> </a> </li>
+  <% }); %>
+  </ul>
+
+<% include partials/footer.html %>
