@@ -1,0 +1,12 @@
+{
+  "name": "RealTruck",
+  "version": "1.0.0",
+  "description": "Real Truck node.js project",
+  "main": "index.js",
+  "repository": "https://github.com/tuladhasum/RealTruck.git",
+  "author": "Sumit Tuladhar <sumittuladhar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
