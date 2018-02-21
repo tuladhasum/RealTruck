@@ -12,5 +12,5 @@ $ yarn install
 ```
 ### Command to run the application
 ```
-$ node index.js
+$ node app.js
 ```
