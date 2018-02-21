@@ -6,7 +6,7 @@ Following RESTful design practices, develop a Node.js JavaScript API with two en
 
 ## Steps to run
 
-## Install the node dependencies
+### Install the node dependencies
 ```
 $ yarn install
 ```
